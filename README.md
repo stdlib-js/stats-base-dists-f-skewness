@@ -69,6 +69,11 @@ for `d1 > 0` and `d2 > 6`. Otherwise, the skewness is not defined.
 ## Usage
 
 ```javascript
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-skewness@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-f-skewness/tags). For example,
+
+```javascript
 import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-skewness@v0.1.1-esm/index.mjs';
 ```
 
@@ -148,7 +153,7 @@ v = skewness( 3.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-skewness@v0.1.1-esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-skewness@esm/index.mjs';
 
 var d1;
 var d2;
