@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,9 +34,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`0ba282b`](https://github.com/stdlib-js/stdlib/commit/0ba282b89c384f06bbe3ff8ecd71982f05209606) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`9c225d9`](https://github.com/stdlib-js/stdlib/commit/9c225d9d649ffd725037384783d67f9dddee87a4) - **feat:** add C implementation for `stats/base/dists/f/skewness` [(#4041)](https://github.com/stdlib-js/stdlib/pull/4041) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`9c225d9`](https://github.com/stdlib-js/stdlib/commit/9c225d9d649ffd725037384783d67f9dddee87a4) - **feat:** add C implementation for `stats/base/dists/f/skewness` [(#4041)](https://github.com/stdlib-js/stdlib/pull/4041) _(by Vivek Maurya, Philipp Burckhardt)_
 
 </details>
 
@@ -51,7 +52,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
