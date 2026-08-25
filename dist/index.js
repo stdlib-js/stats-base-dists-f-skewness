@@ -1,5 +1,5 @@
-"use strict";var n=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(t){throw (r=0, t)}};};var i=n(function(q,u){
-var s=require('@stdlib/math-base-special-sqrt/dist');function a(e,r){var t;return e<=0||r<=6?NaN:(t=(2*e+r-2)*s(8*(r-4)),t/=(r-6)*s(e*(e+r-2)),t)}u.exports=a
-});var o=i();module.exports=o;
+"use strict";var a=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(s){throw (r=0, s)}};};var n=a(function(c,u){
+var t=require('@stdlib/math-base-assert-is-nan/dist'),i=require('@stdlib/math-base-special-sqrt/dist');function o(e,r){var s;return t(e)||e<=0||t(r)||r<=6?NaN:(s=(2*e+r-2)*i(8*(r-4)),s/=(r-6)*i(e*(e+r-2)),s)}u.exports=o
+});var q=n();module.exports=q;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
