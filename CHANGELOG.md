@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-10)
+## Unreleased (2026-10-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d06f1b1`](https://github.com/stdlib-js/stdlib/commit/d06f1b1697876b9ce61a64b771c59a8258ffac4e) - **docs:** fix parameter names [(#15928)](https://github.com/stdlib-js/stdlib/pull/15928) _(by Philipp Burckhardt)_
 -   [`a061461`](https://github.com/stdlib-js/stdlib/commit/a06146143ad215280e17e7f6b78164d5c5b15ef9) - **test:** migrate `stats/base/dists/f/skewness` to ULP-based assertions [(#15137)](https://github.com/stdlib-js/stdlib/pull/15137) _(by Philipp Burckhardt, Athan Reines)_
 -   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
 -   [`2e3e0e9`](https://github.com/stdlib-js/stdlib/commit/2e3e0e9f450c5fbcf1cab51d1d87a558afcaa93a) - **bench:** update random value generation for `stats/base/dists/f` [(#10316)](https://github.com/stdlib-js/stdlib/pull/10316) _(by Lokesh Ranjan)_
